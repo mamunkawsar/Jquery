@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 <!doctype html>
 <html lang="en">
   <head>
@@ -71,7 +63,7 @@
 				method:"post",
 				data:$('#add_name').serialize(),
 				success:function(data){
-					alert("Data inserted successfully!");
+					alert('data');
 					$('#add_name')[0].reset();
 				}
 			})

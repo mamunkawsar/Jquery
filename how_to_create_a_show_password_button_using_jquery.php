@@ -1,9 +1,3 @@
-
-
-
-
-
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -19,11 +13,6 @@
 
 <div class="container">
 	<h3 align="center">Login</h3>
-
-
-
-
-
 	<form id="login_form">
 		<label>User name</label>
 		<input type="text" name="username" id="username" class="form-control">

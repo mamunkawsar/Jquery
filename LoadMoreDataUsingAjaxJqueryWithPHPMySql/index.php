@@ -1,9 +1,4 @@
 
-
-
-
-
-
 <?php
 
 $connect = mysqli_connect("localhost","root","","weblesson");
@@ -14,9 +9,6 @@ $result = mysqli_query($connect, $sql);
 $video_id ='';
 
 ?>
-
-
-
 
 <!doctype html>
 <html lang="en">
@@ -31,12 +23,6 @@ $video_id ='';
 	<title> s S Load More Data using Ajax Jquery with PHP MySql!</title>
   </head>
   <body>
-
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
 
 	<div class="container container-fluid">
 			<div class="panel panel-primary">
